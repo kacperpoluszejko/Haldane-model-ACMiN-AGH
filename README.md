@@ -1,7 +1,7 @@
 # Haldane Model Simulation
 
 Numerical simulation of the Haldane tight-binding model on a honeycomb lattice, demonstrating the quantum anomalous Hall effect (QAHE) in the absence of an external magnetic field.  
-The project focuses on the computation of band structures, Berry curvature, and Chern numbers for topological phases.
+The project focuses on the computation of band structures, Berry curvature, and Chern numbers for topological phases
 
 ## Methods
 - Tight-binding Hamiltonian on a honeycomb lattice
