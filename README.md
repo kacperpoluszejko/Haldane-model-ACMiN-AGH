@@ -20,7 +20,7 @@ The project focuses on the computation of band structures, Berry curvature, and 
 - Berry curvature distributions
 - Topological phase characterization via Chern numbers
 
-Example outputs are shown below.
+Example outputs are shown below:
 
 ![Band structure](images/ArmBand_3(1).png)  
 ![Berry curvature](images/ZigBand_3.png)
