@@ -22,8 +22,8 @@ The project focuses on the computation of band structures, Berry curvature, and 
 
 Example outputs are shown below:
 
-![Band structure](images/ArmBand_3(1).png)  
-![Berry curvature](images/ZigBand_3.png)
+![Band structure](images/ArmBand_3(1).png),
+![Berry curvature](images/ZigBand_3.png).
 
 ## How to run
 The main results are generated in the Jupyter notebook:
